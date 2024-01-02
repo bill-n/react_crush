@@ -5,3 +5,5 @@ This will include the following:
 - react basics
 - mini project
 - Backend project
+- Asyn
+- Await 
