@@ -7,3 +7,4 @@ This will include the following:
 - Backend project
 - Asyn
 - Await 
+- promise 
