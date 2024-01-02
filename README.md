@@ -8,3 +8,4 @@ This will include the following:
 - Asyn
 - Await 
 - promise 
+- arrow function
