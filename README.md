@@ -12,3 +12,4 @@ This will include the following:
 - automation
 - cypress
 - cucumber
+- rest
