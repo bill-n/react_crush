@@ -9,3 +9,4 @@ This will include the following:
 - Await 
 - promise 
 - arrow function
+- automation
