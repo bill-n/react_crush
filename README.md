@@ -10,3 +10,4 @@ This will include the following:
 - promise 
 - arrow function
 - automation
+- cypress
